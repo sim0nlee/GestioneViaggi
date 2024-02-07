@@ -1,6 +1,7 @@
+# Gestione Viaggi
+
 ![image](https://github.com/sim0nlee/GestioneViaggi/assets/94008546/5a06eac7-5c68-482a-b03c-c0493cc41d62)
 
-# Gestione Viaggi
 
 This command line application written in C is a simulation of an airline ticket booking software. 
 
